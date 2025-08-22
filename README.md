@@ -1,10 +1,10 @@
 ## Hi there , I'm Belyse
 
+<!-- Animated Tech Stack GIF -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4C8EDA&center=true&vCenter=true&width=800&lines=HTML5+CSS3+JavaScript;React+Next.js;Tailwind+CSS;UI%2FUX+Designer" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/belyseing/belyseing/main/tech-stack.gif" alt="Frontend Tech Stack" width="80%">
 </p>
+
 
 ---
 
