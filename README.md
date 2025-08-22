@@ -16,7 +16,7 @@ I enjoy **learning new frontend technologies** and improving my UI/UX skills eve
 
 💻 **Portfolio:** [https://personal-portfolio-psi-jet.vercel.app/](https://personal-portfolio-psi-jet.vercel.app/)  
 
-💬 **Ask me about:** React, Next.js, Tailwind CSS, UI/UX Design 
+💬 **Ask me about:** React, Next.js, Tailwind CSS, UI/UX Design and PHP
 
 📫 **How to reach me:**belyseing@gmail.com 
 
