@@ -1,10 +1,6 @@
 ## Hi there , I'm Belyse
 
 
-<!-- Banner or Tech Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/belyseing/belyseing/main/tech-banner.gif" alt="Tech Banner" width="100%">
-</p>
 
 ---
 
