@@ -16,7 +16,9 @@ I aim to **deliver smooth, user-friendly experiences** that delight users and so
 I enjoy **learning new frontend technologies** and improving my UI/UX skills every day.
 
 💻 **Portfolio:** [https://personal-portfolio-psi-jet.vercel.app/](https://personal-portfolio-psi-jet.vercel.app/)  
+
 💬 **Ask me about:** React, Next.js, Tailwind CSS, UI/UX Design 
+
 📫 **How to reach me:**belyseing@gmail.com 
 
 
