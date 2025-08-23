@@ -19,7 +19,7 @@ I enjoy **learning new frontend technologies** and improving my UI/UX skills eve
 
 💬 **Ask me about:** React, Next.js, Tailwind CSS, UI/UX Design and PHP
 
-📫 **How to reach me:** belyseing@gmail.com 
+📫 **How to reach me:** belyseing@gmail.com
 
 
 ---
