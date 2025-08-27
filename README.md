@@ -1,12 +1,12 @@
 ## Hi🙋‍♂️, I'm Belyse
 
-<p align="center">
+<p>
   <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" width="500"  height="400"/>
 </p>
 
 ---
 
-### 👋 About Me  
+### 😍 About Me  
 <p align="center">
   I'm a **Frontend Developer & UI/UX Designer** passionate about creating **intuitive, responsive, and visually appealing web interfaces**.  
 I specialize in **React and Next.js**, with expertise in **Tailwind CSS** and modern design principles.  
