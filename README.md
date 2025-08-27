@@ -3,7 +3,7 @@
 ## Hi🙋‍♂️, I'm <span style="color:teal;"><b>Belyse</b></span>
 
 <div>
-  <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" width="500" height="400"/>
+  <img src="[https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpsN3FraGY4ZTc4d2UyZ2FzbGIyOWNoOWZlNjE2dTA2amp3bTBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="500" height="400"/>
 </div>
 
 ## 😍 About Me
