@@ -4,7 +4,6 @@
   <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" width="500"  height="400"/>
 </p>
 
----
 
 ## 😍 About Me
 
@@ -34,7 +33,6 @@ My focus is on **building smooth, user-friendly experiences** that not only look
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
 </p>
 
----
 
 ## 📊 GitHub Stats  
 <p>
