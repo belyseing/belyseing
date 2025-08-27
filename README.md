@@ -1,4 +1,4 @@
-1## Hi there , I'm Belyse
+## Hi there, I'm Belyse
 
 <p align="center">
   <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" />
