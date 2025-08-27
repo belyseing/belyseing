@@ -1,7 +1,7 @@
  ## Hi there, I'm Belyse
 
 <p align="center">
-  <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" width="500"  height="400"/>
+  <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" width="700"  height="400"/>
 </p>
 
 ---
