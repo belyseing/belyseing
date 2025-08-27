@@ -8,7 +8,7 @@
 
 ### 😍 About Me  
 <p>
-  I'm a ** Frontend Developer & UI/UX Designer ** passionate about creating ** intuitive, responsive, and visually appealing web interfaces **.  
+  I'm a **Frontend Developer & UI/UX Designer** passionate about creating ** intuitive, responsive, and visually appealing web interfaces**.  
 I specialize in **React and Next.js**, with expertise in **Tailwind CSS** and modern design principles.  
 
 I aim to **deliver smooth, user-friendly experiences** that delight users and solve real problems.  
