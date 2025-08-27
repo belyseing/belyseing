@@ -8,20 +8,17 @@
 
 ### 😍 About Me  
 
-  I'm a **Frontend Developer & UI/UX Designer** passionate about creating ** intuitive, responsive, and visually appealing web interfaces**.  
-I specialize in **React and Next.js**, with expertise in **Tailwind CSS** and modern design principles.  
+ <small> I’m a **Frontend Developer & UI/UX Designer** with a strong passion for creating **intuitive, responsive, and visually appealing web interfaces**. I specialize in **React and Next.js**, and have solid experience with **Tailwind CSS** and modern design principles.
 
-I aim to **deliver smooth, user-friendly experiences** that delight users and solve real problems.  
-I enjoy **learning new frontend technologies** and improving my UI/UX skills every day.
+My focus is on building smooth, user-friendly experiences that not only look great but also solve real-world problems efficiently. I enjoy learning new frontend technologies, exploring best UI/UX practices, and continuously improving my design and coding skills every day.
 
-💻 **Portfolio:** [https://personal-portfolio-psi-jet.vercel.app/](https://personal-portfolio-psi-jet.vercel.app/)  
+💻 Portfolio: personal-portfolio-psi-jet.vercel.app
 
-💬 **Ask me about:** React, Next.js, Tailwind CSS, UI/UX Design and PHP
+💬 Ask me about: React, Next.js, Tailwind CSS, UI/UX Design, and PHP
 
-📫 **How to reach me:** belyseing@gmail.com
+📫 How to reach me: belyseing@gmail.com
 
----
-
+</small>
 
 ## 🛠 Tech Stack  
 
