@@ -1,8 +1,7 @@
-## Hi there , I'm Belyse
+1## Hi there , I'm Belyse
 
-<!-- Animated Tech Stack GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/belyseing/belyseing/main/tech-stack.gif" alt="Frontend Tech Stack" width="80%">
+  <img src="https://raw.githubusercontent.com/belyseing/belyseing/main/hi-belyse.png" alt="Hi there, I'm Belyse" width="80%">
 </p>
 
 
