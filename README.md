@@ -7,7 +7,7 @@
 ---
 
 ### 😍 About Me  
-<p>
+
   I'm a **Frontend Developer & UI/UX Designer** passionate about creating ** intuitive, responsive, and visually appealing web interfaces**.  
 I specialize in **React and Next.js**, with expertise in **Tailwind CSS** and modern design principles.  
 
@@ -20,9 +20,8 @@ I enjoy **learning new frontend technologies** and improving my UI/UX skills eve
 
 📫 **How to reach me:** belyseing@gmail.com
 
-
 ---
-</p>
+
 
 ## 🛠 Tech Stack  
 
