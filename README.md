@@ -1,7 +1,7 @@
 1## Hi there , I'm Belyse
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/belyseing/belyseing/be800673e4b0fd639137ce9056d314c6a8ac4973/girl-coding.jpg" />
+  <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" />
 </p>
 
 ---
