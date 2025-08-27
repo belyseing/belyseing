@@ -24,7 +24,7 @@ I enjoy **learning new frontend technologies** and improving my UI/UX skills eve
 
 ## 🛠 Tech Stack  
 <p>
- <p align="center">
+ <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /> 
