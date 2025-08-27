@@ -1,9 +1,8 @@
 1## Hi there , I'm Belyse
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/belyseing/belyseing/main/hi-belyse.png" alt="Hi there, I'm Belyse" width="80%">
+  <img src="https://your-svg-link-here.svg" alt="Typing Animation" width="80%">
 </p>
-
 
 ---
 
