@@ -15,9 +15,9 @@ My focus is on building smooth, user-friendly experiences that not only look gre
 
 💻 **Portfolio**: <a href="https://personal-portfolio-psi-jet.vercel.app" target="_blank">personal-portfolio-psi-jet.vercel.app</a>
 
-💬 Ask me about: React, Next.js, Tailwind CSS, UI/UX Design, and PHP
+💬 **Ask me about**: React, Next.js, Tailwind CSS, UI/UX Design, and PHP
 
-📫 How to reach me: belyseing@gmail.com
+📫 **How to reach me**: belyseing@gmail.com
 
 </small>
 
