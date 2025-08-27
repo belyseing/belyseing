@@ -7,7 +7,7 @@
 ---
 
 ### 😍 About Me  
-<p align="center">
+<p>
   I'm a **Frontend Developer & UI/UX Designer** passionate about creating **intuitive, responsive, and visually appealing web interfaces**.  
 I specialize in **React and Next.js**, with expertise in **Tailwind CSS** and modern design principles.  
 
@@ -26,7 +26,7 @@ I enjoy **learning new frontend technologies** and improving my UI/UX skills eve
 
 ## 🛠 Tech Stack  
 
- <p align="center">
+ <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /> 
@@ -38,7 +38,7 @@ I enjoy **learning new frontend technologies** and improving my UI/UX skills eve
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=belyseing&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belyseing&layout=compact&theme=radical" alt="Top Languages" width="335"/>
 </p>
@@ -46,7 +46,7 @@ I enjoy **learning new frontend technologies** and improving my UI/UX skills eve
 ---
 
 ### 👊 Connect with Me  
-<p align="center">
+<p>
   <a href="https://x.com/belyseing"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ingabire-belyse/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
