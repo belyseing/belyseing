@@ -1,9 +1,8 @@
 <div style="border:2px solid #4CAF50; padding:20px; border-radius:10px;">
   
-## Hi🙋‍♂️, I'm Belyse
+## Hi🙋‍♂️, I'm <span style="color:teal;"><b>Belyse</b></span>
 
-<!-- Image with black background -->
-<div style="background-color:black; display:inline-block; padding:10px; border-radius:5px;">
+<div>
   <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" width="500" height="400"/>
 </div>
 
