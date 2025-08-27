@@ -43,7 +43,7 @@ I enjoy **learning new frontend technologies** and improving my UI/UX skills eve
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=belyseing&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belyseing&layout=compact&theme=radical" alt="Top Languages" width="335"/>
 </p>
