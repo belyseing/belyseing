@@ -1,22 +1,52 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" width="300" height="250" />
-    </td>
-    <td>
-      <h2>Hi there, I'm Belyse</h2>
-      <p>
-        I'm a <strong>Frontend Developer & UI/UX Designer</strong> passionate about creating 
-        <strong>intuitive, responsive, and visually appealing web interfaces</strong>.<br><br>
-        I specialize in <strong>React and Next.js</strong>, with expertise in 
-        <strong>Tailwind CSS</strong> and modern design principles.<br><br>
-        I aim to <strong>deliver smooth, user-friendly experiences</strong> that delight users and solve real problems.
-        I enjoy <strong>learning new frontend technologies</strong> and improving my UI/UX skills every day.<br><br>
-        💻 <strong>Portfolio:</strong> 
-        <a href="https://personal-portfolio-psi-jet.vercel.app/">View My Portfolio</a><br>
-        💬 <strong>Ask me about:</strong> React, Next.js, Tailwind CSS, UI/UX Design and PHP<br>
-        📫 <strong>How to reach me:</strong> belyseing@gmail.com
-      </p>
-    </td>
-  </tr>
-</table>
+ ## Hi there, I'm Belyse
+
+<p align="center">
+  <img src="https://github.com/belyseing/belyseing/blob/main/coding.jpg?raw=true" width="500"  height="400"/>
+</p>
+
+---
+
+### 👋 About Me  
+I'm a **Frontend Developer & UI/UX Designer** passionate about creating **intuitive, responsive, and visually appealing web interfaces**.  
+I specialize in **React and Next.js**, with expertise in **Tailwind CSS** and modern design principles.  
+
+I aim to **deliver smooth, user-friendly experiences** that delight users and solve real problems.  
+I enjoy **learning new frontend technologies** and improving my UI/UX skills every day.
+
+💻 **Portfolio:** [https://personal-portfolio-psi-jet.vercel.app/](https://personal-portfolio-psi-jet.vercel.app/)  
+
+💬 **Ask me about:** React, Next.js, Tailwind CSS, UI/UX Design and PHP
+
+📫 **How to reach me:** belyseing@gmail.com
+
+
+---
+
+## 🛠 Tech Stack  
+<p>
+ <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
+</p>
+
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=belyseing&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belyseing&layout=compact&theme=radical" alt="Top Languages" width="335"/>
+</p>
+
+---
+
+### 👊 Connect with Me  
+<p align="center">
+  <a href="https://x.com/belyseing"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ingabire-belyse/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
