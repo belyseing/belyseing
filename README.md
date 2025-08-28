@@ -13,7 +13,7 @@
 
 I’m a <b>Frontend Developer & UI/UX Designer</b> with a strong passion for creating <b>intuitive, responsive, and visually appealing web interfaces</b>. I specialize in <b>React and Next.js</b>, and have solid experience with <b>Tailwind CSS</b> and modern design principles.
 
-My focus is on **building smooth, user-friendly experiences** that not only look great but also solve real-world problems efficiently. I enjoy **learning new frontend technologies**, exploring best UI/UX practices, and continuously improving my design and coding skills every day.
+My focus is on **building smooth, user-friendly experiences** that not only look great but also solve real-world problems efficiently. I enjoy **learning new technologies**, exploring best UI/UX practices, and continuously improving my design and coding skills every day.
 
 💻 **Portfolio**: <a href="https://personal-portfolio-psi-jet.vercel.app" target="_blank">personal-portfolio-psi-jet.vercel.app</a>
 
